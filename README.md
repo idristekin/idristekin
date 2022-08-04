@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @idristekin
 - 👀 I’m interested in Oracle SQL, R and Python
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> ...
 
 <!---
